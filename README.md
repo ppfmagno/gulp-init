@@ -1,8 +1,9 @@
 # gulp-init
 Some configuration files to start a new gulp based project
 
-#### Requisites for windows
-Git Bash
+#### Requisites
+Git Bash (for windows)
+npm
 
 #### Instructions
 1. Download files
@@ -15,3 +16,4 @@ $ nano .bashrc
 ~~~
 4. Add `alias gulp-init="gulp-init.sh"` to the file and save (^x, y)
 5. Use the command `gulp-init` from the folder you want to start a project
+6. npm install
