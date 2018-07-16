@@ -2,7 +2,7 @@
 Some configuration files to start a new gulp based project
 
 #### Requisites
-Git Bash (for windows)
+Git Bash (for windows)  
 npm
 
 #### Instructions
